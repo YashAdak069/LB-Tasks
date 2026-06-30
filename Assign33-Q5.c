@@ -36,7 +36,7 @@ int main()
 
     StrRevX(arr);
 
-    printf("MOdified string : %s\n",arr);
+    printf("Modified string : %s\n",arr);
     
     return 0;
 }
